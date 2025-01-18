@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with [...](#)
 
-- 👨‍💻 All of my projects are available at [edinmavric.com](edinmavric.com)
+- 👨‍💻 All of my projects are available at [edinmavric](edinmavric.com)
 
 - 📫 How to reach me **edinmavric10@gmail.com**
 
-- 📄 Know about my experiences [https://edinmavric.com/assets/pdf/Resume.pdf](https://edinmavric.com/assets/pdf/Resume.pdf)
+- 📄 Know about my experiences [Resumè](https://edinmavric.com/assets/pdf/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
