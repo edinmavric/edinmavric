@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edin Mavric</h1>
 <h3 align="center">Software Engineer from Serbia</h3>
 
+![Image](https://github.com/user-attachments/assets/fdcac0b5-4817-4888-85f9-af8e48f41b12)
+
 - 🔭 I’m currently working on [...](#)
 
 - 👯 I’m looking to collaborate on [...](#)
