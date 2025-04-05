@@ -4,11 +4,11 @@
   <img src="https://github.com/user-attachments/assets/fdcac0b5-4817-4888-85f9-af8e48f41b12" alt="Animated SVG">
 </div>
 
-- 👨‍💻 All of my projects are available at [edinmavric](edinmavric.com)
+- 👨‍💻 All of my projects are available at [edinmavric](https://edinmavric.com)
 
 - 📫 How to reach me **edinmavric10@gmail.com**
 
-- 📄 Know about my experiences [Resumè](https://edinmavric.com/assets/pdf/Resume.pdf)
+- 📄 Know about my experiences [Resumè](https://edinmavric.pages.dev/assets/pdf/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
