@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/fdcac0b5-4817-4888-85f9-af8e48f41b12" alt="Animated SVG">
 </div>
 
-- 👨‍💻 All of my projects are available at [edinmavric](https://edinmavric.com)
+- 👨‍💻 All of my projects are available at [edinmavric](https://edins-portfolio.pages.dev)
 
 - 📫 How to reach me **edinmavric10@gmail.com**
 
